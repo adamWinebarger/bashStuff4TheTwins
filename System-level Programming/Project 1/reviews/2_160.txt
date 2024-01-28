@@ -1,0 +1,5 @@
+It works fine for PS/PS2 controllers, though rumble isn't supported. In analog mode, the D-pad is mapped to buttons 13-16 instead of a hat switch as you might expect. This can mean extra configuration for some games, but it does allow it to register simultaneous presses of opposite directions (eg. left+right), which has always been one of the odd things about PlayStation controllers. In digital mode, the left stick reads as centered but the Z and Z Rotation axes (right stick) are either all the way up or down, which can cause some trouble.
+
+The N64 side doesn't work at all for me. I tried it with both an OEM Nintendo controller and an InterAct MakoPad 64 (both tested and work perfectly with a real N64). With both of them, all buttons and axes (even the ones N64 controllers don't have, like the right stick) constantly press and unpress on their own.
+
+Note that there is a switch on the left side of the unit that switches between N64 and PlayStation modes. Away from you is PlayStation (left/red LED), towards you is N64 (right/green LED). I say this because there are no instructions and the switch is completely unlabeled.

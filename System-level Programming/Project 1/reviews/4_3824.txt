@@ -1,0 +1,23 @@
+This is a very good gaming system. It was released by in September of 1999. I think that Sega made their point out when they installed the 56K modem with this. It's a really nice feature to have and now every modern-day system comes with a ethernet or dial-up modem port. I didn't rate this a perfect because I think that the graphics aren't that good. I really don't like how the controllers are. But I think that atleast they have disks because since NES-N64 Nintendo has been using cartridges and Sega made cartridges in the beginning but they changed to disks before the Nintendo (and atleast their disks are normal). They have some good games like Sonic which are really good games to own. Here are the technical specs of the Dreamcast.
+
+CPU: 128-bit Hitachi SH-4 RISC processor (200MHz 360 MIPS)
+
+Graphics: NEC CLX2 processor
+
+RAM: 16MB, 8MB Video RAM, 2MB Sound RAM
+
+Colors: 16.7 million
+
+Polygons: 3 million per second
+
+Game Media: 1.2GB GD-ROM, 12x access speed
+
+Resolution: 640x480 pixels
+
+Sound: Yamaha 64 channel
+
+Operating System: Custom Windows CE with DirectX support
+
+Modem: 56Kbps (US/JP NTSC), 33.3Kbps (PAL)
+
+It's a really good system but I don't think you should buy it now because it's WAY to old!

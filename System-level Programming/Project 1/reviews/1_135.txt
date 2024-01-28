@@ -1,0 +1,5 @@
+I cannot get this thing to work with my Wii Rockband 3.
+It might be related to the USB hub that I'm using, but it simply refuses to be detected by the game.
+
+Cosmetically, it's a microphone. Bit on the ugly side.
+I would be wary of compatibility issues with this one.

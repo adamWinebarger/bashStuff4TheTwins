@@ -1,0 +1,1 @@
+Start and Select buttons got embedded into the controller, so I ended up taking it apart in order to get them out and alter the holes so that the buttons wouldn't get stuck. The wires were poorly soldered on, so they ended up coming off of the board almost instantly.

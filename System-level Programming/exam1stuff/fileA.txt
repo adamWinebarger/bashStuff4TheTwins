@@ -1,0 +1,3 @@
+apple
+bar
+cube

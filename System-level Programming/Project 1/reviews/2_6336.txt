@@ -1,0 +1,3 @@
+Pharaoh is a city building game (like SimCity), but set in Egypt, during the pre-dynastic period.  You start by building a settlement, addressing basic needs and continue onward.  Unlike SimCity, there are various goals to hit such as population goals.
+As the game progresses, it gets harder.
+Unfortunately, I found myself building and managing the population, but having to check the deities almost constantly.  Unless you hold regular festivals, constantly build shrines, the gods will grow angry and exact revenge on your civilization.  I found it to be more tedious than fun.

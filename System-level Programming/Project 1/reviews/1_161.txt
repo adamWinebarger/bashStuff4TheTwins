@@ -1,0 +1,22 @@
+I was interested in this product for the n64 part.  Retrolink makes SNES and NES controllers for PC but no N64.
+Trying to get a PS2 controller to work on a PC is stupid because every major PC gamepad company has a PS2 copy of their controller that goes through native USB.
+
+I tried all of the following on Windows XP SP3 32 bit and GNU/Linux Kernel 2.6+, same results.
+
+PS1 Controller: (Both official Sony controllers)
+Dualshock (Analog sticks): Worked, but the back L and R buttons (L2 and R2) would not trigger.  Both analog sticks tracked perfectly.
+Original (No Analog sticks): Worked perfect.  Back L and R buttons work.
+
+PS2 MadCatz Controller:
+Didn't work at all.  It was however a madcatz and not an official sony controller.
+Had no authentic ps2 controllers to test.
+
+N64:
+I had two controllers to test with it.
+Transparent purple:  Every button worked, but the analog stick would not go %100.  Jamming it to the right shows only a slight movement even though I moved it %100.  Windows configuration was impossible since the C buttons kept firing like someone was pressing them all madly.
+Gray:  All buttons worked but the analog stick and all of the C buttons went haywire and fired constantly.
+
+Maybe I got a bad one, but I really think this thing sucks.
+
+If you're looking for a usb adapter for N64 controllers, try&nbsp;<a data-hook="product-link-linked" class="a-link-normal" href="/May-Flash-N64-Controller-Adapter-for-PC-USB/dp/B002B9FIUU/ref=cm_cr_arp_d_rvw_txt?ie=UTF8">May Flash N64 Controller Adapter for PC USB</a>.
+If you're looking for a usb version of a PS2/PS1 controller, go for the&nbsp;<a data-hook="product-link-linked" class="a-link-normal" href="/Logitech-Dual-Action-Game-Pad-USB/dp/B0000ALFCI/ref=cm_cr_arp_d_rvw_txt?ie=UTF8">Logitech Dual Action Game Pad USB</a>.

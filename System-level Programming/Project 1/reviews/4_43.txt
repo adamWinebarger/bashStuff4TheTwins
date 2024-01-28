@@ -1,0 +1,22 @@
+In today's game market it's easy to miss racing games that aren't part of the license-heavy Forza or Gran Turismo franchises. Dirt 3 for PC is in an even worse boat than most since it's been a giveaway for a couple years now with every DX11 compliant ATI video card. As a result a lot of people who get it send it straight to eBay and most people who do play it have not bought it new.
+
+This is a shame because Dirt 3 is a fun little game. There's a great assortment of multinational tracks, and a wide array of classic and modern rally cars to choose from. As a rally game, Dirt 3 ditches the comfortable confines of tracks and sends you headlong across snow and gravel in a world where keeping control of your car is a greater skill than making it around the turns. Dirt 3 wears a veneer of noisy, fun arcade-style game play, but under the hood it calls for quick reactions, a good understanding of road surfaces, and nerves of steel. Sadly, it also calls for a gamepad or wheel- you will almost certainly find the keyboard too all-or-nothing for serious racing.
+
+PROS:
+-Visually stunning engine that makes full use of DirectX 11 effects
+-Soundtrack is an appealing mix of classic prog rock and modern music that does a good job of being vaguely European and not too intrusive
+-Successfully models an arcade-like complexity of play with a surprisingly deep simulation of track conditions and vehicle handling
+-In-car camera gives a stomach-churning stream of nonstop thrills as you launch over crests and 2-wheel hairpins
+-Probably the most realistic depiction of drifting/powersliding to appear in a video game (it's frightening, nauseating, and usually a bad idea)
+-3D support!
+
+CONS:
+-Lower difficulties aren't much fun, highest difficulty is brutally hard
+-Small fanbase of hardcore racing nuts may make multiplayer a bit hard for newcomers (Dirt 3 players seem pretty nice though)
+-Essentially requires some sort of analog input
+-May confuse players who aren't familiar with the rules and conditions of rally-style racing
+
+Other thoughts:
+-You need to plug your youtube credentials into the game to let it export your highlights to YouTube. I don't think CodeMasters wants to rip you off, but if it makes you uncomfortable, create a new Google identity for use with Dirt 3. Easy!
+-LEARN THE TRACKS. Learn the tracks, learn the tracks, learn the tracks.
+-If you want to win, employ a Fin!

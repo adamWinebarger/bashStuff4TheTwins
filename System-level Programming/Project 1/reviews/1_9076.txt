@@ -1,0 +1,3 @@
+this game is too old to work on todays OS's. After many attempts with dos-box and other emulation software I gave up.
+
+I did however get it to start...once....but it locked up and pixelated, then crashed with a fatal error.

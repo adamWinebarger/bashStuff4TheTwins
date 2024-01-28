@@ -1,0 +1,1 @@
+It won't autosave, and it resets progress on reboot.  Other games I own don't seem to do this.

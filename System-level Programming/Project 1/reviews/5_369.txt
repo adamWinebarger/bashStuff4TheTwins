@@ -1,0 +1,1 @@
+With this older non IR system I need to extend the controller with a reasonable item. This fit the bill with no problems.

@@ -1,0 +1,5 @@
+This product is not actually distributed by Sony. As well, Playstation 2 consoles, to my knowledge, do not have any existing memory cards above the 8MB in size. There's some nasty hack for it that simply doesn't work and this card will never work like they say it does. It's essentially a regular memory card without the 8MB memory limitation, therefore making the PS2 overwrite previous data because the memory card is full, but the PS2 doesn't understand that it's full, thus causing corruptions.
+
+My source of this information? The Internet and the two 16MB memory cards I bought years ago, not off Amazon, though.
+
+Seriously, don't be fooled by this.

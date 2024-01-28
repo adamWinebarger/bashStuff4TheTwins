@@ -1,0 +1,16 @@
+cut -d wc -l $HISTFILE
+fc -l | cut -c 6-
+cat  t1.txt | wc -l $HISTFILE
+subl t1.txt 
+fc -l | cut -c 6- | cat t1.txt
+cat t1.txt | fc -l | cut -c 6-
+cat t1.txt | fc -l | cut -c 6- | tail
+cat t1.txt | fc -l | cut -c 6- | echo
+>> t1.txt
+ls
+subl t1.txt 
+cat adfgd >> $t1.txt
+try1
+ls -1 > t1.txt
+cat t1.txt | fc -l | cut -c 6- > minlab3Commands.txt
+fc -l | cut -c 6- > t1.txt

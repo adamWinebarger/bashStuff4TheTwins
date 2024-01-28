@@ -1,0 +1,1 @@
+The game worked. However, if you let the opening sequence play, it would inevitably get stuck. You had to skip ahead to the main menu. It also gets stuck sometimes during game play and has to be reset, and the controls don't always respond. I'm not sure if this was an issue before it was shipped or if it was damaged during shipping.

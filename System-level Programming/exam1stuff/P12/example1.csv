@@ -1,0 +1,8 @@
+model_year,make,model,price,fuel_type,cylinders
+2021,Tesla,Model 3,38690,electric,NA
+2021,Dodge,Ram 1500,32795,gas,6
+2020,Dodge,Ram 1500,32145,gas,6
+2019,Hyundai,Sonata,25750,hybrid,4
+2017,Hyundai,Sonata,26000,hybrid,4
+2017,Honda,Accord,22455,gas,4
+2018,Dodge,Ram 1500,28490,gas,6

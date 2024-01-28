@@ -1,0 +1,8 @@
+model_year,make,model,price,fuel_type,cylinders
+2021,Nissan,Leaf,32620,electric,NA
+2019,Hyundai,Sonata,25750,hybrid,4
+2017,Hyundai,Sonata,26000,hybrid,4
+2020,Honda,Civic,20000,gas,4
+2019,Honda,Accord,26250,hybrid,4
+2019,Ford,Explorer,32365,gas,6
+2017,Dodge,Ram 1500,26495,gas,6

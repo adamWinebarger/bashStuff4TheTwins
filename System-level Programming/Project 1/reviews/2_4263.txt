@@ -1,0 +1,3 @@
+This will get the job done on most games, however if you want to play games like Street Fighter or any other game that requires directional based special moves, you can forget it.
+Software on the site allows you to program special move buttons.
+The buttons are terrible.  They 'mush' down.  They are not springy as they should be.

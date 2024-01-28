@@ -1,0 +1,11 @@
+Remember Command and Conquer, the real-time strategy that lets you build a base, a lot of units and rush the opposing force?  You'd think the developers of the original would come up with some innovative game play for the sequel. While maybe they can, they didn't here. Not only is the game play unchanged, it suffers from a weak story, poor balancing and computer AI and several small problems.
+
+The single player campaign story, what there is of it, is just a jumble of scenarios without much to tie them together. There are characters and things happen to them but but there isn't a story progression to follow. You fight over here, you fight over there, then it's the final battle. In fact I reached the end of the GDI campaign without realizing it. The live video cut-scenes should have helped create a rich back-story but writing this I can't remember any of it.
+
+There are balance issues particularly with NOD units and structures. A NOD 'super laser' structure can destroy almost anything with one shot but the NOD artillery is completely unbalanced. With a long range and a big punch, the artillery is can wipe out any ground force, and is unstoppable even in small numbers as long as a small anti-air backup is nearby.
+
+The computer is an easy opponent. It doesn't rush but sending units at piecemeal, a handful at a time. It doesn't protect it's harvesters either, once you locate them it's easy to cut-off the computer's resources. The computer showed some initiative just once: During a NOD scenario several GDI engineers rushed my base taking several of my structures. I was so surprised it nearly wiped me out but building a good perimeter stopped later rushes. In the scenarios that followed the engineer rush never happened again. I didn't try any higher difficulty levels, maybe the computer plays better there.
+
+Large maps are hard to manage, the game tell you that an offscreen unit is lost but not where the unit is. Some scenarios seem designed to simply frustrate you with a huge map and a timed objective with no direction as to where to accomplish it. In the end the game is all about the mass rush, once you build 50 or medium strength units nothing the computer can't stop you. On the technical side this game ran perfectly on Windows 2000.
+
+If you're looking for more of the original Command and Conquer this game's for you.

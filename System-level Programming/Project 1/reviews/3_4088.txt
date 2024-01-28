@@ -1,0 +1,26 @@
+I waited over ten years to play this game!  I bought it over ten years ago, around 2000.  Even by that point it was in the "bargain bin" shelf of jewel cases.  Unfortunately, I was too busy in my life to play it and waited nearly a decade before I had enough free time.  Getting it running on Vista definitely took some moxie:  I would have saved hours if I had simply played through it ten years ago.
+
+I had heard how original and fun the game was, but frankly it was a lot better before I actually sat down to play it, if you know what I mean.  Once you learn how to play, the campaign stages get quite repetitive and the game's "sense of humor" gets trying.  Additionally, I feel the gamemaker's attempt to shoehorn 3D into this game didn't add much and could have been completely dispensed with:  at least it should have been optional.  Finally, it ultimately gets to be unsatisfying to make your dungeons since the "fog of war" prevents you from planning intelligently, and the space you are given to dig in seems inadequate, even in the later campaign missions.
+
+Anyhow, here are two big issues:
+
+1.  The thing is full of bugs, and the company that made it is now defunct, so there won't be any more patches issued.  The latest official patch was 1.7.
+
+2.  This was meant to run on "Windows 95 / 98 / Me," according to the packaging.  I've also never had a problem running it on XP.  It is possible to get it fully running on Vista or 7 and I am here to tell you it can be done.  Try some combination of these, starting with f, then d.
+
+a.  Right click and run program as administrator.
+b.  On the compatibility tab, set it to run in Windows 2000; disable visual themes, disable desktop composition, and
+ disable display scaling on high DPI settings.
+c.  Although DKII puts a shortcut on your desktop, I found have it not to work with Vista or 7:  you must go into the original Bullfrog folder and launch the game directly from the executable, keeping in mind a and b above.
+d.  Right click on your desktop.  Under display settings, disable hardware acceleration.  If you can't do this sweepingly (e.g., because you have an NVIDIA, go to the NVIDIA control panel for DKII and disable virtually everything, especially texture filtering.
+e.  Bear in mind that DKII not only runs its own executable, but it runs another program simultaneously which is actually the game engine.  The process shows as ip.exe.  So anything you do to the DKII.exe should also be done to that.
+f.  Run DKII.  Go into the graphics options, uncheck all those boxes:  visual translucency, environment mapping, and especially the last:  hardware acceleration. Set shadow detail to 0.  What you do with gamma is irrelevant.
+g.  You can get quite discouraged if you're going through all this and you keep getting those black squares on the menu screens.  But if you go into the graphics options and keep finding that, upon being restarted, the game has rechecked "hardware acceleration" without your permission, do not be angry.  Simply accept.  Go back into the main menu and load an actual pet dungeon or a campaign dungeon.  When DKII reloads one of those, that check should go away and stay away even after you close the game.  In other words, when you uncheck "hardware acceleration," the game must actually load a dungeon for this to take effect.  If you simply uncheck it and exit the game, it won't take.
+In addition, I have posted a link to a Youtube video in the comments that I found helpful in this struggle.
+h.  It is not my experience that setting graphics options to low or running the game in 640x480 is going to help you at all when trying to get it to run under Windows Vista and Windows 7.
+i.  It shouldn't matter whether you applied the patch or not:  I have gotten it to run both ways on Windows Vista and Windows 7, although only with the final 1.7 patch:  I don't know about the three or four patches that came before that, all of which are still available on the internet as of this writing.
+j.  If all else fails, be aware that it might be your sound card that's causing a problem, not your video card.  This game seems to like simple sound cards and has a reputation for not working on account of the newer, snazzier ones.  If all else fails, try disabling your spiffy sound card in the Device Manager to see if the onboard sound on your mother board will give this a pass.
+
+By the way, I want the world to know that it took me longer to figure out how to play this under Windows Vista and Windows 7 than I actually spent playing the game!
+
+Hope this helps someone.
