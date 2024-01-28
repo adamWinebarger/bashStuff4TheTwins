@@ -1,0 +1,9 @@
+1. I would say a, personally, but I'm a fan of camel-case. I know a lot of languages view it as standard practice to use all caps to denote constants and underscores are just kind of... meh
+2. Confuses compiler. Compilers will generally assume that the number is part of the previous portion of the statment
+3. lose the ability to make use of those keywords so it's generally not something you want to do until you're sure you won't need to make use of that keyword
+4. I suppose it could be useful in the event that you want to modify the specs of a key function to do something slightly different than what it does out of the box (ex: toString() removing spaces, capitalizing, etc.)
+
+
+Binding:
+
+1. 
